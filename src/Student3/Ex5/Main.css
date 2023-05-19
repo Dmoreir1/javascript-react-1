@@ -7,3 +7,12 @@
 body {
     background-color: lightgray
 }
+
+table {
+    font-size: larger;
+}
+
+.th {
+    font-weight:bolder;
+    font-size: larger;
+}
